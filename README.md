@@ -6,7 +6,7 @@ JSX é uma extensão de sintaxe para JavaScript. É semelhante a uma linguagem d
 Com ele é possível colocar HTML no Javascript
 
 ## Arrow Function
-Uma forma de criar funções com uma estrutura mais curta no JS, permitindo ter um retorno implícito, que são valores retornados sem ter que usar a palavar return. 
+Uma forma de criar funções com uma estrutura mais curta no JS, permitindo ter um retorno implícito, que são valores retornados sem ter que usar a palava return. 
 Com Arrow Function, não é preciso declarar uma função como ```function```
 
 #### Sem Arrow Function
