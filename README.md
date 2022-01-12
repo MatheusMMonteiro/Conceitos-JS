@@ -1,6 +1,10 @@
 # Conceitos-JS
 Repositório criado com intuito de colocar conceitos que aprendi trabalhando com Angular, React e afins.
 
+## JSX
+JSX é uma extensão de sintaxe para JavaScript. É semelhante a uma linguagem de template, mas com todo o poder do JavaScript. JSX é compilado para chamadas React.
+Com ele é possível colocar HTML no Javascript
+
 ## Arrow Function
 Uma forma de criar funções com uma estrutura mais curta no JS, permitindo ter um retorno implícito, que são valores retornados sem ter que usar a palavar return. 
 Com Arrow Function, não é preciso declarar uma função como ```function```
